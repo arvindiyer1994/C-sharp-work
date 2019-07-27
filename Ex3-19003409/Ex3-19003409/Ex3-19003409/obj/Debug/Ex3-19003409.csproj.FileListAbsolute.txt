@@ -1,0 +1,10 @@
+c:\users\19003409.student\source\repos\Ex3-19003409\Ex3-19003409\bin\Debug\Ex3-19003409.exe.config
+c:\users\19003409.student\source\repos\Ex3-19003409\Ex3-19003409\bin\Debug\Ex3-19003409.exe
+c:\users\19003409.student\source\repos\Ex3-19003409\Ex3-19003409\bin\Debug\Ex3-19003409.pdb
+c:\users\19003409.student\source\repos\Ex3-19003409\Ex3-19003409\obj\Debug\Ex3-19003409.csprojAssemblyReference.cache
+c:\users\19003409.student\source\repos\Ex3-19003409\Ex3-19003409\obj\Debug\Ex3_19003409.Form1.resources
+c:\users\19003409.student\source\repos\Ex3-19003409\Ex3-19003409\obj\Debug\Ex3_19003409.Properties.Resources.resources
+c:\users\19003409.student\source\repos\Ex3-19003409\Ex3-19003409\obj\Debug\Ex3-19003409.csproj.GenerateResource.cache
+c:\users\19003409.student\source\repos\Ex3-19003409\Ex3-19003409\obj\Debug\Ex3-19003409.csproj.CoreCompileInputs.cache
+c:\users\19003409.student\source\repos\Ex3-19003409\Ex3-19003409\obj\Debug\Ex3-19003409.exe
+c:\users\19003409.student\source\repos\Ex3-19003409\Ex3-19003409\obj\Debug\Ex3-19003409.pdb
